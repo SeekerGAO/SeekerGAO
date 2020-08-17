@@ -1,4 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeekerGAO&show_icons=true&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm SeekerGAO 👋
+### 🚀 Front-end Devlover 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeekerGAO)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![SeekerGAO's github stats](https://github-readme-stats.vercel.app/api?username=SeekerGAO&show_icons=true&theme=onedark
+)](https://github.com/SeekerGAO)
